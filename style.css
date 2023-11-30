@@ -14,7 +14,7 @@ body{
     padding: 10px;
     margin-top: 20%;
     text-align: center;
-    background: linear-gradient(38deg, #22c1c3 0%, #fd2dc7 100%);
+    background: linear-gradient(222deg, rgba(35,63,198,1) 0%, rgba(253,45,94,0.9220063025210083) 88%);
     display: flex;
     gap: 10px;
     flex-direction: column;
@@ -57,7 +57,7 @@ button{
     padding-top: 10px;
     font-size: 25px;
     font-weight: bold;
-    color: blue;
+    color: yellow;
 }
 #weight-guide{
     
